@@ -1,7 +1,12 @@
+
+//console.log(process.env.NODE_ENV);
+
 module.exports = {
   /*
    ** Headers of the page
    */
+  srcDir: 'client/',
+  dev: (process.env.NODE_ENV !== 'production'),
   head: {
     title: 'study-nuxt',
     meta: [{
@@ -17,15 +22,16 @@ module.exports = {
     link: [{
       rel: 'icon',
       type: 'image/x-icon',
-      href: '/favicon.ico'
+      href: '../favicon.ico'
     }]
   },
   
   //配置element
   plugins: [{
-    src: '~plugins/ElementUI',
+    src: '../plugins/ElementUI',
     ssr: true,
   }],
+
   css: [
     'element-ui/lib/theme-chalk/index.css',
     '~assets/css/main.css',

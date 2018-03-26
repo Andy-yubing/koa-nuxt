@@ -22,6 +22,7 @@
         <li><nuxt-link :to="{name:'about'}">about</nuxt-link></li>
         <li><nuxt-link :to="{name:'news'}">news</nuxt-link></li>
         <li><nuxt-link :to="{name:'news-message', params:{id:3306}}">message</nuxt-link></li>
+        
     </div>
   </section>
 </template>
