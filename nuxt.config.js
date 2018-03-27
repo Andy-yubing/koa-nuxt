@@ -73,5 +73,17 @@ module.exports = {
       }
     },
     vendor:['element-ui']
+  },
+  development: {
+    proxies: [
+      /* {
+        path: '/hpi/',
+        target: 'http://localhost:3000/',
+        logs: true,
+        prependPath: false,
+        changeOrigin: true,
+        rewrite: path => path.replace(/^\/pages(\/|\/\w+)?$/, '/service')
+      } */
+    ]
   }
 }
