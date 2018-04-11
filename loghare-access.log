@@ -1,0 +1,374 @@
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14228,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T03:55:37.932Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14228,"level":30,"msg":"[RES] GET / (200) took 12 ms","time":"2018-03-28T03:55:37.944Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5040,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T05:41:43.677Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5040,"level":30,"msg":"[RES] GET / (200) took 6 ms","time":"2018-03-28T05:41:43.682Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8588,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T05:43:09.710Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8588,"level":30,"msg":"[RES] GET / (200) took 7 ms","time":"2018-03-28T05:43:09.717Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:01:17.836Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET / (200) took 443 ms","time":"2018-03-28T08:01:18.276Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T08:01:18.281Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 3 ms","time":"2018-03-28T08:01:18.284Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T08:01:18.286Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 7 ms","time":"2018-03-28T08:01:18.293Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T08:01:18.311Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 5 ms","time":"2018-03-28T08:01:18.316Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T08:01:19.430Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 1 ms","time":"2018-03-28T08:01:19.431Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T08:01:19.436Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T08:01:19.437Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T08:01:19.438Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 0 ms","time":"2018-03-28T08:01:19.438Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T08:01:19.441Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T08:01:19.442Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T08:01:19.443Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 1 ms","time":"2018-03-28T08:01:19.444Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":8572,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T08:01:19.703Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:02:11.657Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET / (304) took 378 ms","time":"2018-03-28T08:02:12.035Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T08:02:12.049Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 6 ms","time":"2018-03-28T08:02:12.055Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T08:02:12.057Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 6 ms","time":"2018-03-28T08:02:12.063Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T08:02:12.064Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 5 ms","time":"2018-03-28T08:02:12.069Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T08:02:12.085Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 2 ms","time":"2018-03-28T08:02:12.087Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T08:02:12.088Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 1 ms","time":"2018-03-28T08:02:12.089Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T08:02:12.090Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 0 ms","time":"2018-03-28T08:02:12.091Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T08:02:12.091Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 1 ms","time":"2018-03-28T08:02:12.092Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T08:02:12.093Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 3 ms","time":"2018-03-28T08:02:12.096Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T08:02:12.365Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[REQ] GET /favicon.ico","time":"2018-03-28T08:02:12.810Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10300,"level":30,"msg":"[RES] GET /favicon.ico (404) took 14 ms","time":"2018-03-28T08:02:12.824Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:05:23.552Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET / (304) took 309 ms","time":"2018-03-28T08:05:23.860Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T08:05:23.877Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 4 ms","time":"2018-03-28T08:05:23.881Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T08:05:23.882Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 3 ms","time":"2018-03-28T08:05:23.885Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T08:05:23.886Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 1 ms","time":"2018-03-28T08:05:23.887Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T08:05:23.910Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 1 ms","time":"2018-03-28T08:05:23.911Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T08:05:23.914Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T08:05:23.915Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T08:05:23.918Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 2 ms","time":"2018-03-28T08:05:23.919Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T08:05:23.923Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T08:05:23.924Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T08:05:23.926Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 0 ms","time":"2018-03-28T08:05:23.927Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9192,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T08:05:24.203Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:08:18.814Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET / (304) took 292 ms","time":"2018-03-28T08:08:19.105Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T08:08:19.116Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 4 ms","time":"2018-03-28T08:08:19.120Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T08:08:19.121Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 4 ms","time":"2018-03-28T08:08:19.125Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T08:08:19.125Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 2 ms","time":"2018-03-28T08:08:19.127Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T08:08:19.145Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 1 ms","time":"2018-03-28T08:08:19.146Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T08:08:19.149Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T08:08:19.150Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T08:08:19.152Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 2 ms","time":"2018-03-28T08:08:19.154Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T08:08:19.156Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T08:08:19.157Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T08:08:19.157Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 2 ms","time":"2018-03-28T08:08:19.159Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3536,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T08:08:19.409Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":488,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:12:05.131Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":488,"level":30,"msg":"[RES] GET / (200) took 11 ms","time":"2018-03-28T08:12:05.142Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":488,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:12:08.344Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":488,"level":30,"msg":"[RES] GET / (200) took 2 ms","time":"2018-03-28T08:12:08.346Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:12:34.401Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET / (200) took 314 ms","time":"2018-03-28T08:12:34.714Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T08:12:34.731Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 13 ms","time":"2018-03-28T08:12:34.744Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T08:12:34.744Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 3 ms","time":"2018-03-28T08:12:34.747Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T08:12:34.748Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 19 ms","time":"2018-03-28T08:12:34.768Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T08:12:34.768Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 5 ms","time":"2018-03-28T08:12:34.773Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T08:12:34.773Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 4 ms","time":"2018-03-28T08:12:34.777Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T08:12:34.777Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 5 ms","time":"2018-03-28T08:12:34.782Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T08:12:34.783Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 2 ms","time":"2018-03-28T08:12:34.785Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T08:12:34.785Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 4 ms","time":"2018-03-28T08:12:34.789Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2160,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T08:12:35.022Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":9112,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T08:18:00.831Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T08:22:29.064Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET / (304) took 285 ms","time":"2018-03-28T08:22:29.348Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T08:22:29.363Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 5 ms","time":"2018-03-28T08:22:29.368Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T08:22:29.369Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 6 ms","time":"2018-03-28T08:22:29.375Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T08:22:29.376Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 1 ms","time":"2018-03-28T08:22:29.377Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T08:22:29.390Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 2 ms","time":"2018-03-28T08:22:29.392Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T08:22:29.396Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T08:22:29.397Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T08:22:29.400Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 2 ms","time":"2018-03-28T08:22:29.402Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T08:22:29.403Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 2 ms","time":"2018-03-28T08:22:29.405Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T08:22:29.407Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 1 ms","time":"2018-03-28T08:22:29.408Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":12280,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T08:22:29.648Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5476,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:06:32.315Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11524,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:09:51.831Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":3780,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:11:45.831Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5696,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:13:19.832Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:13:38.721Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 12 ms","time":"2018-03-28T09:13:38.733Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:13:38.734Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 5 ms","time":"2018-03-28T09:13:38.739Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:13:38.740Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 1 ms","time":"2018-03-28T09:13:38.741Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:13:38.744Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 2 ms","time":"2018-03-28T09:13:38.746Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:13:38.746Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 1 ms","time":"2018-03-28T09:13:38.747Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:13:41.976Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET / (304) took 332 ms","time":"2018-03-28T09:13:42.307Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:13:42.325Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 4 ms","time":"2018-03-28T09:13:42.329Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:13:42.330Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 10 ms","time":"2018-03-28T09:13:42.340Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:13:42.340Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 2 ms","time":"2018-03-28T09:13:42.342Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:13:42.359Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 2 ms","time":"2018-03-28T09:13:42.361Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:13:42.367Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T09:13:42.369Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:13:42.371Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 1 ms","time":"2018-03-28T09:13:42.372Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:13:42.374Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 6 ms","time":"2018-03-28T09:13:42.380Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:13:42.382Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 6 ms","time":"2018-03-28T09:13:42.388Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:13:42.391Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 1 ms","time":"2018-03-28T09:13:42.392Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:13:42.739Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 7 ms","time":"2018-03-28T09:13:42.746Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:13:42.746Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 3 ms","time":"2018-03-28T09:13:42.749Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:13:42.761Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:13:43.005Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 2 ms","time":"2018-03-28T09:13:43.007Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:13:43.415Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 2 ms","time":"2018-03-28T09:13:43.417Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:14:36.633Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET / (304) took 13 ms","time":"2018-03-28T09:14:36.646Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /__webpack_hmr (200) took 53899 ms","time":"2018-03-28T09:14:36.660Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:14:36.681Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 20 ms","time":"2018-03-28T09:14:36.701Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:14:36.701Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 5 ms","time":"2018-03-28T09:14:36.706Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:14:36.707Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 12 ms","time":"2018-03-28T09:14:36.719Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:14:36.735Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 3 ms","time":"2018-03-28T09:14:36.738Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:14:36.745Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 6 ms","time":"2018-03-28T09:14:36.750Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:14:36.752Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 2 ms","time":"2018-03-28T09:14:36.754Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:14:36.756Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T09:14:36.757Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:14:36.759Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 2 ms","time":"2018-03-28T09:14:36.761Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:14:36.786Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 4 ms","time":"2018-03-28T09:14:36.790Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:14:37.082Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 7 ms","time":"2018-03-28T09:14:37.089Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:14:37.090Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 6 ms","time":"2018-03-28T09:14:37.096Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:14:37.096Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:14:37.315Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 9 ms","time":"2018-03-28T09:14:37.324Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:14:37.324Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":6436,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 2 ms","time":"2018-03-28T09:14:37.326Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:15:11.139Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET / (304) took 314 ms","time":"2018-03-28T09:15:11.452Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:15:11.468Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 5 ms","time":"2018-03-28T09:15:11.473Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:15:11.474Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 5 ms","time":"2018-03-28T09:15:11.479Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:15:11.479Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 9 ms","time":"2018-03-28T09:15:11.488Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:15:11.520Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 3 ms","time":"2018-03-28T09:15:11.523Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:15:11.523Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 3 ms","time":"2018-03-28T09:15:11.526Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:15:11.527Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 2 ms","time":"2018-03-28T09:15:11.529Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:15:11.529Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 8 ms","time":"2018-03-28T09:15:11.538Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:15:11.542Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 12 ms","time":"2018-03-28T09:15:11.554Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:15:11.554Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 13 ms","time":"2018-03-28T09:15:11.567Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:15:11.925Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 6 ms","time":"2018-03-28T09:15:11.931Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:15:11.931Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 4 ms","time":"2018-03-28T09:15:11.935Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:15:11.939Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:15:12.223Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 2 ms","time":"2018-03-28T09:15:12.225Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:15:12.229Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":2064,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 2 ms","time":"2018-03-28T09:15:12.231Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:16:28.591Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET / (304) took 336 ms","time":"2018-03-28T09:16:28.926Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:16:28.945Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 5 ms","time":"2018-03-28T09:16:28.950Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:16:28.951Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 6 ms","time":"2018-03-28T09:16:28.957Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:16:28.958Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 9 ms","time":"2018-03-28T09:16:28.967Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:16:28.994Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 2 ms","time":"2018-03-28T09:16:28.996Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:16:29.001Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 15 ms","time":"2018-03-28T09:16:29.016Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:16:29.020Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 1 ms","time":"2018-03-28T09:16:29.021Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:16:29.025Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T09:16:29.026Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:16:29.029Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 1 ms","time":"2018-03-28T09:16:29.030Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:16:29.071Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 4 ms","time":"2018-03-28T09:16:29.075Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:16:29.453Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 5 ms","time":"2018-03-28T09:16:29.458Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:16:29.459Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 2 ms","time":"2018-03-28T09:16:29.461Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:16:29.465Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:16:29.986Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 2 ms","time":"2018-03-28T09:16:29.987Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:16:30.080Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":14020,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 1 ms","time":"2018-03-28T09:16:30.081Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:32:07.471Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET / (304) took 346 ms","time":"2018-03-28T09:32:07.818Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:32:07.836Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 3 ms","time":"2018-03-28T09:32:07.839Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:32:07.840Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 3 ms","time":"2018-03-28T09:32:07.843Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:32:07.844Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 1 ms","time":"2018-03-28T09:32:07.845Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:32:07.875Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 3 ms","time":"2018-03-28T09:32:07.878Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:32:07.882Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T09:32:07.883Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:32:07.885Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 1 ms","time":"2018-03-28T09:32:07.886Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:32:07.887Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T09:32:07.888Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:32:07.893Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 0 ms","time":"2018-03-28T09:32:07.893Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:32:07.924Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 1 ms","time":"2018-03-28T09:32:07.925Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:32:08.273Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 4 ms","time":"2018-03-28T09:32:08.277Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:32:08.277Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 2 ms","time":"2018-03-28T09:32:08.279Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:32:08.296Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:32:08.574Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 1 ms","time":"2018-03-28T09:32:08.575Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:32:08.897Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":5976,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 0 ms","time":"2018-03-28T09:32:08.897Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:32:41.786Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET / (304) took 305 ms","time":"2018-03-28T09:32:42.091Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:32:42.108Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 6 ms","time":"2018-03-28T09:32:42.114Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:32:42.114Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 4 ms","time":"2018-03-28T09:32:42.118Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:32:42.118Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 1 ms","time":"2018-03-28T09:32:42.119Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:32:42.154Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 1 ms","time":"2018-03-28T09:32:42.155Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:32:42.160Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T09:32:42.160Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:32:42.162Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 2 ms","time":"2018-03-28T09:32:42.164Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:32:42.166Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T09:32:42.167Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:32:42.169Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 1 ms","time":"2018-03-28T09:32:42.170Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:32:42.188Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 0 ms","time":"2018-03-28T09:32:42.188Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:32:42.532Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 4 ms","time":"2018-03-28T09:32:42.536Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:32:42.536Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 2 ms","time":"2018-03-28T09:32:42.538Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:32:42.542Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:32:42.788Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 1 ms","time":"2018-03-28T09:32:42.789Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:32:42.808Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":10328,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 0 ms","time":"2018-03-28T09:32:42.808Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:33:23.793Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET / (304) took 315 ms","time":"2018-03-28T09:33:24.107Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:33:24.120Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 4 ms","time":"2018-03-28T09:33:24.123Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:33:24.123Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 4 ms","time":"2018-03-28T09:33:24.127Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:33:24.128Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 1 ms","time":"2018-03-28T09:33:24.129Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:33:24.166Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 1 ms","time":"2018-03-28T09:33:24.167Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:33:24.171Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 1 ms","time":"2018-03-28T09:33:24.172Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:33:24.177Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 2 ms","time":"2018-03-28T09:33:24.178Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:33:24.181Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T09:33:24.182Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:33:24.184Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 1 ms","time":"2018-03-28T09:33:24.185Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:33:24.209Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 1 ms","time":"2018-03-28T09:33:24.210Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:33:24.541Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 4 ms","time":"2018-03-28T09:33:24.545Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:33:24.546Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 1 ms","time":"2018-03-28T09:33:24.547Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:33:24.551Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:33:24.803Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 0 ms","time":"2018-03-28T09:33:24.804Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:33:25.161Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":11860,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 0 ms","time":"2018-03-28T09:33:25.161Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /","time":"2018-03-28T09:33:51.693Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET / (304) took 311 ms","time":"2018-03-28T09:33:52.004Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js","time":"2018-03-28T09:33:52.017Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/manifest.js (200) took 4 ms","time":"2018-03-28T09:33:52.020Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js","time":"2018-03-28T09:33:52.021Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/vendor.js (200) took 3 ms","time":"2018-03-28T09:33:52.024Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/app.js","time":"2018-03-28T09:33:52.024Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/app.js (200) took 2 ms","time":"2018-03-28T09:33:52.026Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js","time":"2018-03-28T09:33:52.062Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js (200) took 1 ms","time":"2018-03-28T09:33:52.063Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_message.js","time":"2018-03-28T09:33:52.071Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/pages_news_message.js (200) took 0 ms","time":"2018-03-28T09:33:52.071Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/pages_news_index.js","time":"2018-03-28T09:33:52.074Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/pages_news_index.js (200) took 0 ms","time":"2018-03-28T09:33:52.074Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/pages_about_index.js","time":"2018-03-28T09:33:52.076Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/pages_about_index.js (200) took 1 ms","time":"2018-03-28T09:33:52.077Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js","time":"2018-03-28T09:33:52.080Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js (200) took 2 ms","time":"2018-03-28T09:33:52.083Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/manifest.js.map","time":"2018-03-28T09:33:52.122Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/manifest.js.map (200) took 1 ms","time":"2018-03-28T09:33:52.123Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/vendor.js.map","time":"2018-03-28T09:33:52.434Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/vendor.js.map (200) took 4 ms","time":"2018-03-28T09:33:52.438Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/app.js.map","time":"2018-03-28T09:33:52.438Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/app.js.map (200) took 2 ms","time":"2018-03-28T09:33:52.440Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /__webpack_hmr","time":"2018-03-28T09:33:52.451Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/pages_index.js.map","time":"2018-03-28T09:33:52.688Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/pages_index.js.map (200) took 0 ms","time":"2018-03-28T09:33:52.688Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[REQ] GET /_nuxt/layouts_default.js.map","time":"2018-03-28T09:33:53.056Z","v":0}
+{"name":"hare","hostname":"DESKTOP-JLLTVJL","pid":452,"level":30,"msg":"[RES] GET /_nuxt/layouts_default.js.map (200) took 0 ms","time":"2018-03-28T09:33:53.056Z","v":0}
